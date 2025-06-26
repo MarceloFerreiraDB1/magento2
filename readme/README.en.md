@@ -11,6 +11,8 @@ Current module version: **3.5.1**
 |  2.3.5  |            Approved             | Approved, backoffice flows and sales channel released 100% for integration;                                                                                                       |
 |  2.4.3  | Approved <br/>(1 problem found) | Approved, backoffice flow released for integration, sales channel flow released with the following caveat:<br/> - Price scope configuration that needs to be done by Store View;  |
 |  2.4.5  | Approved <br/>(1 problem found) | Approved, backoffice flow released for integration, sales channel flow released with the following caveats:<br/> - Price scope configuration that needs to be done by Store View; |
+|  2.4.6  | Approved <br/>(1 problem found) | Approved, backoffice flow released for integration, sales channel flow released with the following caveats:<br/> - Price scope configuration that needs to be done by Store View; |
+|  2.4.7  | Approved <br/>(1 problem found) | Approved, backoffice flow released for integration, sales channel flow released with the following caveats:<br/> - Price scope configuration that needs to be done by Store View; |
 
 > **WARNING**
 > - Our support team (**suporte@anymarket.com.br**) must be contacted before performing any Magento version update, that way we'll be able to follow up your 
