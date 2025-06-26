@@ -11,6 +11,8 @@ Versión actual del módulo: **3.5.1**
 |  2.3.5  |               Aprobado                | Aprobado, flujos de backoffice y canal de ventas liberado 100% para integración;                                                                                                                           |
 |  2.4.3  | Aprobado <br/>(1 problema encontrado) | Aprobado, flujo administrativo liberado para la integración, flujo del canal de ventas liberado con la siguiente advertencia:<br/> - Configuración del alcance del precio que debe realizar Store View;    |
 |  2.4.5  | Aprobado <br/>(1 problema encontrado) | Aprobado, flujo administrativo liberado para la integración, flujo del canal de ventas liberado con las siguientes advertencias:<br/> - Configuración del alcance del precio que debe realizar Store View; |
+|  2.4.6  | Aprobado <br/>(1 problema encontrado) | Aprobado, flujo administrativo liberado para la integración, flujo del canal de ventas liberado con las siguientes advertencias:<br/> - Configuración del alcance del precio que debe realizar Store View; |
+|  2.4.7  | Aprobado <br/>(1 problema encontrado) | Aprobado, flujo administrativo liberado para la integración, flujo del canal de ventas liberado con las siguientes advertencias:<br/> - Configuración del alcance del precio que debe realizar Store View; |
 
 > **IMPORTANTE**
 > - Antes de hacer cualquier actualización de la versión del Magento, deve ser comunicado con al equipo de soporte (**suporte@anymarket.com.br**) para 
